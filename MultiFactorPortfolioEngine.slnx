@@ -1,3 +1,17 @@
 <Solution>
-  <Project Path="MultiFactorPortfolioEngine/MultiFactorPortfolioEngine.csproj" />
+  <Folder Name="/Framework/">
+    <Project Path="Framework/MultiFactorPortfolioEngine.Analytics/MultiFactorPortfolioEngine.Analytics.csproj" />
+    <Project Path="Framework/MultiFactorPortfolioEngine.Backtesting/MultiFactorPortfolioEngine.Backtesting.csproj" />
+    <Project Path="Framework/MultiFactorPortfolioEngine.Common/MultiFactorPortfolioEngine.Common.csproj" />
+    <Project Path="Framework/MultiFactorPortfolioEngine.Data/MultiFactorPortfolioEngine.Data.csproj" />
+    <Project Path="Framework/MultiFactorPortfolioEngine.Factors/MultiFactorPortfolioEngine.Factors.csproj" />
+    <Project Path="Framework/MultiFactorPortfolioEngine.Portfolio/MultiFactorPortfolioEngine.Portfolio.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Backtesting/MultiFactorPortfolioEngine.Tests.Backtesting.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Data/MultiFactorPortfolioEngine.Tests.Data.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Factors/MultiFactorPortfolioEngine.Tests.Factors.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Portfolio/MultiFactorPortfolioEngine.Tests.Portfolio.csproj" />
+  </Folder>
+  <Project Path="MultiFactorPortfolioEngine/MultiFactorPortfolioEngine.Console.csproj" />
 </Solution>
