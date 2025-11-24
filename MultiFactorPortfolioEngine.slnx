@@ -1,11 +1,11 @@
 <Solution>
-  <Folder Name="/Framework/">
-    <Project Path="Framework/MultiFactorPortfolioEngine.Analytics/MultiFactorPortfolioEngine.Analytics.csproj" />
-    <Project Path="Framework/MultiFactorPortfolioEngine.Backtesting/MultiFactorPortfolioEngine.Backtesting.csproj" />
-    <Project Path="Framework/MultiFactorPortfolioEngine.Common/MultiFactorPortfolioEngine.Common.csproj" />
-    <Project Path="Framework/MultiFactorPortfolioEngine.Data/MultiFactorPortfolioEngine.Data.csproj" />
-    <Project Path="Framework/MultiFactorPortfolioEngine.Factors/MultiFactorPortfolioEngine.Factors.csproj" />
-    <Project Path="Framework/MultiFactorPortfolioEngine.Portfolio/MultiFactorPortfolioEngine.Portfolio.csproj" />
+  <Folder Name="/QuantEngine/">
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Analytics/MultiFactorPortfolioEngine.Analytics.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Backtesting/MultiFactorPortfolioEngine.Backtesting.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Common/MultiFactorPortfolioEngine.Common.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Data/MultiFactorPortfolioEngine.Data.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Factors/MultiFactorPortfolioEngine.Factors.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Portfolio/MultiFactorPortfolioEngine.Portfolio.csproj" />
   </Folder>
   <Folder Name="/Tests/">
     <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Backtesting/MultiFactorPortfolioEngine.Tests.Backtesting.csproj" />
