@@ -1,17 +1,18 @@
 <Solution>
   <Folder Name="/QuantEngine/">
-    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Analytics/MultiFactorPortfolioEngine.Analytics.csproj" />
-    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Backtesting/MultiFactorPortfolioEngine.Backtesting.csproj" />
-    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Common/MultiFactorPortfolioEngine.Common.csproj" />
-    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Data/MultiFactorPortfolioEngine.Data.csproj" />
-    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Factors/MultiFactorPortfolioEngine.Factors.csproj" />
-    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Portfolio/MultiFactorPortfolioEngine.Portfolio.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Analytics/QuantEngine.Analytics.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Backtesting/QuantEngine.Backtesting.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Common/QuantEngine.Common.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Data/QuantEngine.Data.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Factors/QuantEngine.Factors.csproj" />
+    <Project Path="QuantEngine/MultiFactorPortfolioEngine.Portfolio/QuantEngine.Portfolio.csproj" />
   </Folder>
   <Folder Name="/Tests/">
-    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Backtesting/MultiFactorPortfolioEngine.Tests.Backtesting.csproj" />
-    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Data/MultiFactorPortfolioEngine.Tests.Data.csproj" />
-    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Factors/MultiFactorPortfolioEngine.Tests.Factors.csproj" />
-    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Portfolio/MultiFactorPortfolioEngine.Tests.Portfolio.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Backtesting/QuantEngine.Tests.Backtesting.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Data/QuantEngine.Tests.Data.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Factors/QuantEngine.Tests.Factors.csproj" />
+    <Project Path="Tests/MultiFactorPortfolioEngine.Tests.Portfolio/QuantEngine.Tests.Portfolio.csproj" />
+    <Project Path="Tests/QuantEngine.Tests/QuantEngine.Tests.csproj" Id="2517c0cd-2ecd-4d68-9e29-564f10c72923" />
   </Folder>
-  <Project Path="MultiFactorPortfolioEngine/MultiFactorPortfolioEngine.Console.csproj" />
+  <Project Path="MultiFactorPortfolioEngine/QuantEngine.Console.csproj" />
 </Solution>

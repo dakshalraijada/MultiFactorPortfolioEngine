@@ -15,6 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\QuantEngine\MultiFactorPortfolioEngine.Common\QuantEngine.Common.csproj" />
+    <ProjectReference Include="..\..\QuantEngine\MultiFactorPortfolioEngine.Factors\QuantEngine.Factors.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 

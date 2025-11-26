@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MultiFactorPortfolioEngine.Common\QuantEngine.Common.csproj" />
+  </ItemGroup>
+
 </Project>
